@@ -6,4 +6,7 @@
 #Load the WSDL
 (1). Go to browser: http://localhost:2026/visionService/employees.wsdl
 (2). Open your SOAPUI tool (or download https://www.soapui.org/downloads/thank-you-for-downloading-soapui/)
-(3). Add the WSDL to the tool 
+(3). Add the WSDL to the tool and test 
+
+# WSDL
+-![WSDL] (employee-wsdl.PNG)
